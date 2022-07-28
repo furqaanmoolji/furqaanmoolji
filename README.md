@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furqaan Moolji</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<p align="center">I am a passionate programmer from India. My interest lie in Blockchain, Artifical Intelligence and Open Source./</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furqaanmoolji&label=Profile%20views&color=0e75b6&style=flat" alt="furqaanmoolji" /> </p>
 
